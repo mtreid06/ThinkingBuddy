@@ -6,6 +6,7 @@ This repository offers the public-facing protocols and frameworks developed for 
 
 Want to see these protocols in action? Try the custom GPT: 
 [`Thinking Buddy`](https://chatgpt.com/g/g-67e1fc9d79bc8191b88a1935baeccc29-thinking-buddy)
+
 ---
 
 ## 📘 Protocol Documents
