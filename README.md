@@ -38,7 +38,7 @@ The protocols are open for extension, adaptation, and critical analysis.
 
 This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 You may use, remix, and redistribute it—even commercially—**as long as you provide proper attribution**.  
-See [`LICENSE`](./LICENSE) for full terms.
+See [`LICENSE.md`](./LICENSE.md) for full terms.
 
 ---
 
