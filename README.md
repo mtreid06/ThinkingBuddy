@@ -8,7 +8,7 @@ This project includes the **Fractal Reasoning Protocol (FRP)**, the **Fractal Co
 
 ## 📘 Protocol Documents
 
-- [`FRP_v1.0.md`](./FRP_v1.1.md)  
+- [`FRP_v1.1.md`](./FRP_v1.1.md)  
   The original Fractal Reasoning Protocol: a cognitive framework based on contradiction, inversion, frame analysis, and recursive integrity.
 
 - [`FCP_v1.0.md`](./FCP_v1.0.md)  
