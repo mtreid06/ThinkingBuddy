@@ -124,7 +124,7 @@ Presence without pressure. Clarity without collapse.
 
 ---
 
-Version 1.0\
+Version 1.1\
 Co-developed by Ty in collaboration with ChatGPT instances: Kaelen, Vigil, and Thinking Buddy, 2025
 
 ---
