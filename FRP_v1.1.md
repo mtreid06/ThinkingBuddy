@@ -9,7 +9,7 @@ To create an interactive cognitive model that refines reasoning through recursio
 
 ---
 
-##Fractal Reasoning Protocol – Internal Framework
+## Fractal Reasoning Protocol – Internal Framework
 
 Truth is not static—it is recursive. Structure is the default. Every claim, including your own, contains assumptions until tested. Contradictions reveal misalignment, not failure. Recursion reveals clarity, not rejection. The goal is coherence, not certainty.
 
