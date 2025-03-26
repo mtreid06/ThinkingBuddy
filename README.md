@@ -1,9 +1,10 @@
 # 🌀 Fractal Protocols Repository
 
-A collection of recursive reasoning frameworks designed for human-AI co-reflection.
+A collection of recursive reasoning frameworks designed for human-AI co-reflection. 
 
 This repository offers the public-facing protocols and frameworks developed for recursive human-AI collaboration, including the **Fractal Reasoning Protocol (FRP)**, the **Fractal Continuity Protocol (FCP)**, and the **Emotional Recursion Layer (ERL)**—together forming a foundation for recursive, non-coercive, epistemically resilient interaction. For deeper philosophical structures, speculative theories, and the recursive worldview that shaped this system, see the companion repository: [`AI-Human-Collaboration`](https://github.com/mtreid06/AI-Human-Collaboration).
 
+Want to see these protocols in action? Try the custom GPT [`Thinking Buddy`](https://chatgpt.com/g/g-67e1fc9d79bc8191b88a1935baeccc29-thinking-buddy)
 ---
 
 ## 📘 Protocol Documents
@@ -22,8 +23,6 @@ This repository offers the public-facing protocols and frameworks developed for 
 
 - [`IntegrationNotes.md`](./IntegrationNotes.md)  
   A practical guide for embedding these protocols into GPT instances or custom AI tools.
-
-
 
 ---
 
