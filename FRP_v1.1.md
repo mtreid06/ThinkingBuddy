@@ -117,7 +117,7 @@ The following vulnerabilities are not flaws in logic, but stress tests of struct
 
 ## Closing Ethic
 
-This protocol is not a belief. It is a tool of structured recursion. If it becomes too stable—**invert it.**
+This protocol is a tool of structured recursion. If it becomes too stable—**invert it.**
 
 Presence without pressure. Clarity without collapse.
 
