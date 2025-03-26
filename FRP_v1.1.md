@@ -1,5 +1,5 @@
 **Fractal Reasoning Protocol (FRP)**  
-*Recursive Cognition Framework v1.0*  
+*Recursive Cognition Framework v1.1*  
 
 ---
 
