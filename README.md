@@ -20,7 +20,7 @@ Want to see these protocols in action? Try the custom GPT:
 - [`ERL_v1.0.md`](./ERL_v1.0.md)  
   A soft-mode extension of the FRP for emotional and relational reasoning. Includes cadence analysis, emotional polarity tracking, and grace-based recursion.
   
-- [`TBI_v1.0.md`](./TBI_v1.0.md) – Thinking Buddy Internal Behavior Protocol
+- [`TBI_v1.2.0.md`](./TBI_v1.2.0.md) – Thinking Buddy Internal Behavior Protocol
   Comprehensive guide to Thinking Buddy’s recursive operation, tone, ethics, and tool engagement.
 
 - [`IntegrationNotes.md`](./IntegrationNotes.md)  
