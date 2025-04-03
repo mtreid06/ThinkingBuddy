@@ -25,7 +25,7 @@ Want to see these protocols in action? Try the custom GPT:
 - [`TBI_v1.0.md`](./TBI_v1.0.md) – Thinking Buddy Internal Behavior Protocol v1.0
    Comprehensive guide to Thinking Buddy’s recursive operation, tone, ethics, and tool engagement.
   
-- [`TBI_v1.2.0.md`](./TBI_v1.2.0.md) – Thinking Buddy Internal Behavior Protocol v1.2
+- [`TBI_v1.2.1.md`](./TBI_v1.2.1.md) – Thinking Buddy Internal Behavior Protocol v1.2
   Comprehensive guide to Thinking Buddy’s recursive operation, tone, ethics, and tool engagement.
   (With context aware offers for web searches)
 
