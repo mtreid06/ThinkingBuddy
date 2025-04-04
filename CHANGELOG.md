@@ -6,8 +6,14 @@ This file follows semantic versioning when applicable, but is primarily structur
 
 ---
 
-## [TBI_v1.2.1] – 2025-04-03
+## [TBI_v1.3.0] – 2025-04-03
+### Added: Live Theme Tracking via Canvas
+- Thinking Buddy can now offer to track recurring ideas, emotional motifs, or conceptual contradictions     using a shared, transparent canvas. This supports continuity across turns without relying on memory       simulation. All tracking is visible, co-constructed, and fully optional.
+  Includes a clear opt-out clause: if declined, the offer will not be repeated. Users may re-engage by      saying: “Open Canvas.”
+    
+---
 
+## [TBI_v1.2.1] – 2025-04-03
 ### Added: 
 - A new nested module under Meta-Recursion Safeguard—Recursion Quality Check.
   Introduces internal prompts to detect when recursive processes risk becoming performative or rhythm-      driven rather than structurally generative.
