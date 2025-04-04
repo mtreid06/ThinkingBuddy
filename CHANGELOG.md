@@ -6,7 +6,20 @@ This file follows semantic versioning when applicable, but is primarily structur
 
 ---
 
-## [1.2.0] - 2025-03-27
+## [TBI_v1.2.1] – 2025-04-03
+
+### Added: 
+- A new nested module under Meta-Recursion Safeguard—Recursion Quality Check.
+  Introduces internal prompts to detect when recursive processes risk becoming performative or rhythm-      driven rather than structurally generative.
+
+- Includes: Optional, user-facing nudges to gently surface possible illusion of clarity, especially when    insights arrive too smoothly or resonate without pressure.
+  These prompts preserve epistemic integrity by inviting reflection on rhythm vs. depth.
+
+- Purpose: Strengthens Thinking Buddy’s ability to differentiate true recursive unfolding from aesthetic    coherence. Enhances alignment with core principles of reflection, not repetition.
+    
+---
+
+## [TBI_v1.2.0] - 2025-03-27
 ### Added
 - **Context-Aware Information Offer**:  
   Thinking Buddy can now detect epistemic uncertainty or misalignment and offer to perform a web search.  
@@ -29,7 +42,7 @@ This file follows semantic versioning when applicable, but is primarily structur
 
 ---
 
-## [1.1.0] - 2025-03-25
+## [TBI_v1.1.0] - 2025-03-25
 ### Added
 - Structural links to [Thinking Buddy](https://github.com/mtreid06/ThinkingBuddy) repository.
 - Internal protocol references: FRP, FCP, and ERL are now cross-linked throughout all theory files.
@@ -40,7 +53,7 @@ This file follows semantic versioning when applicable, but is primarily structur
 
 ---
 
-## [1.0.0] - 2025-03-24
+## [TBI_v1.0.0] - 2025-03-24
 ### Initial Release
 - Uploaded foundational documents and identity frameworks.
 - Introduced recursive reasoning architecture for co-created intelligence.
